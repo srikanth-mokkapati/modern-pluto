@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: About
       keyName: property
     - name: 'og:description'
       value: About Srikanth Mokkapati
