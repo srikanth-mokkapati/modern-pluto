@@ -23,7 +23,7 @@
                 "label": "Style Guide",
                 "url": "/style-guide/",
                 "style": "link",
-                "no_follow": true
+                "no_follow": false
             },
             {
                 "label": "About",
