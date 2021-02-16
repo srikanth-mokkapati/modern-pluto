@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about me page
     - name: 'twitter:image'
-      value: /images/ultra-squid.png
+      value: /images/DSCN2884.JPG
       relativeUrl: true
 template: page
 ---
