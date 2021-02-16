@@ -1,6 +1,6 @@
 ---
 title: "Jackson and Gson - A Handshake \U0001F91D"
-date: '2021-02-16'
+date: '2021-02-01'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
