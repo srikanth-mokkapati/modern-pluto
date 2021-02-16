@@ -33,7 +33,7 @@ template: page
 ---
 \*\*Srikanth Mokkapati \*\*is a Software Product Developer from India. He graduated from VR Siddhartha Engineering College, Vijayawada in 2017, with a B.Tech degree in Electronics and Communication Engineering. He started working as a Systems Engineer in IT and now working at OpsRamp, India.
 
-> We don’t have to be smarter than the rest. We have to be more disciplined than the rest.<cite>Warren Buffet</>
+> We don’t have to be smarter than the rest. We have to be more disciplined than the rest.\<cite>Warren Buffet\</cite>
 
 As a hobby, Srikanth authors a blog on different topics with his personal take on several topics such as Software Development, Web, Personal Finance, etc...
 
