@@ -35,7 +35,7 @@ template: page
 
 > We don’t have to be smarter than the rest. We have to be more disciplined than the rest.
 >
-> Warren Buffet
+> *   Warren Buffet
 
 As a hobby, Srikanth authors a blog on different topics with his personal take on several topics such as Software Development, Web, Personal Finance, etc...
 
