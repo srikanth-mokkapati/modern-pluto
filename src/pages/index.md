@@ -38,7 +38,9 @@ seo:
       value: Srikanth Mokkapati - Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+        Software and Personal Finance
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
