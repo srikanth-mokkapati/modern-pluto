@@ -15,6 +15,7 @@ template: post
 thumb_img_path: images/Screenshot JSON.png
 content_img_alt: JSON
 subtitle: JSON Parsing in Java
+content_img_path: images/Screenshot JSON.png
 ---
 ## Introduction
 
