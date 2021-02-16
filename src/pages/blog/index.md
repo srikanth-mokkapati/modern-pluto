@@ -11,7 +11,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: About Srikanth Mokkapati
       keyName: property
     - name: 'og:image'
       value: /images/DSCN2884.JPG
