@@ -55,7 +55,7 @@ seo:
         This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
         Software and Personal Finance
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/DSCN2884.JPG
       relativeUrl: true
 template: advanced
 excerpt: Personal Blog of Srikanth Mokkapati
