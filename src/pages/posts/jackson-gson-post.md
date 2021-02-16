@@ -33,11 +33,6 @@ Could not write JSON: JsonObject; nested exception is com.fasterxml.jackson.data
 
 ```
 
-```
-```
-
-
-
 This can be on a myriads of internal gson.JsonObject methods/properties, as Jackson is getter/setter based, and on different one each time.
 
 ## Alternatives
