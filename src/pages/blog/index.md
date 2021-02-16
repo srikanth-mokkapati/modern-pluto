@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: About Srikanth Mokkapati
     - name: 'twitter:image'
       value: /images/DSCN2884.JPG
       relativeUrl: true
