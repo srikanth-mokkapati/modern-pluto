@@ -23,7 +23,6 @@ content_img_path: images/Screenshot JSON.png
 
 ## Use cases
 
-
 By default, Spring Framework uses Jackson library for parsing Rest API Input and Output. It converts object responses to JSON and request body to Object. And, With simple tinkering to Application properties we can enable Gson parsing.
 
 However, in some cases, what if we needed the output to be JSON Objects like JSON Array or JSON Object? If we are using Gson, it has straight forward JsonObject and JsonArray Classes which can be used and be request body or response. If we are using Jackson there are no direct classes, but we have JsonNode, ArrayNode etc.. These classes are not very intuitive. If you are to use Gson classes with Jackson parsing in Request Body/Response you will face an exception such as below.
@@ -39,7 +38,6 @@ This can be on a myriads of internal gson.JsonObject methods/properties, as Jack
 *   Use Other Compatible Libraries : We can use other JSON Libraries such as [JSON - Small and Fast Parser](https://mvnrepository.com/artifact/net.minidev/json-smart/1.0.9) or Default Package [Java JSON](https://mvnrepository.com/artifact/org.json/json). The classes  extend Java Collections, fundamentally parse and hold JSON fields as objects, and hence can be converted without any additional changes. However, there are several performance benchmarks which suggest they are not as fast. At the same time, some of us may prefer the ObjectMapper and Gson classes for Object parsing and Type Conversions and want to keep imports at minimum.
 
 ## The Solution
-
 
 **Custom Serialisers/Deserialisers** are powerful extensions in both Jackson and Gson Libraries. In this example, I will present how they can be written for Gson specific objects for Jackson Parsing at API end. The vice-versa is also possible but takes a lot more work considering multiple jackson classes like IntegerNode, NullNode, etc...which extend the Jackson base JSON class TreeNode. Also, it is simpler to use Gson classes like JsonObject and JsonArray for internal business logic.
 
@@ -226,8 +224,6 @@ We get the following output on testing GET endpoint and giving its response as i
             null
         ]
     }
-
-
 
 ## Conclusion&#xD;&#xA;
 
