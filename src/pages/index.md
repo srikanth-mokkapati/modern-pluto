@@ -43,7 +43,7 @@ seo:
         Software and Personal Finance
       keyName: property
     - name: 'og:image'
-      value: /images/scientific-zebra.JPG
+      value: /images/DSCN2884.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
