@@ -27,10 +27,16 @@ By default, Spring Framework uses Jackson library for parsing Rest API Input and
 
 However, in some cases, what if we needed the output to be JSON Objects like JSON Array or JSON Object? If we are using Gson, it has straight forward JsonObject and JsonArray Classes which can be used and be request body or response. If we are using Jackson there are no direct classes, but we have JsonNode, ArrayNode etc.. These classes are not very intuitive. If you are to use Gson classes with Jackson parsing in Request Body/Response you will face an exception such as below.
 
+```
 Could not write JSON: JsonObject; nested exception is com.fasterxml.jackson.databind.JsonMappingException
+
+
+```
 
 ```
 ```
+
+
 
 This can be on a myriads of internal gson.JsonObject methods/properties, as Jackson is getter/setter based, and on different one each time.
 
