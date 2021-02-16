@@ -17,7 +17,7 @@ seo:
       value: This is the about me page
       keyName: property
     - name: 'og:image'
-      value: /images/ultra-squid.png
+      value: /images/DSCN2884.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
