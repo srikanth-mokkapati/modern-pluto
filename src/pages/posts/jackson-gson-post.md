@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_img_path: images/Screenshot JSON.png
 ---
 ## Lorem ipsum
 
