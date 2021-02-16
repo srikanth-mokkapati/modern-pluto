@@ -49,7 +49,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: Srikanth Mokkapati - Blog
     - name: 'twitter:description'
       value: >-
         This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
