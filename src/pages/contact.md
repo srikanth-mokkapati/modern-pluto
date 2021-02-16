@@ -16,7 +16,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: srikanth.mokkapati9@gmail.com
+        default_value: Your Email
         is_required: true
       - input_type: text
         name: subject
