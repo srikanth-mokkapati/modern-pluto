@@ -64,4 +64,5 @@ seo:
       keyName: property
       relativeUrl: true
 template: advanced
+excerpt: Contact Me
 ---
