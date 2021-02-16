@@ -27,7 +27,9 @@ sections:
         style: button
 seo:
   title: Srikanth Mokkapati Blog
-  description: The preview of the Fresh theme
+  description: >-
+    This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+    Software and Personal Finance
   extra:
     - name: 'og:type'
       value: website
