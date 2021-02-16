@@ -38,7 +38,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact Me
-  description: This is the contact page
+  description: This is the contact page me page of Srikanth Mokkapati
   extra:
     - name: 'og:type'
       value: website
