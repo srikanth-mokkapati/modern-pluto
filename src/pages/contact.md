@@ -18,7 +18,7 @@ sections:
         label: Email
         default_value: srikanth.mokkapati9@gmail.com
         is_required: true
-      - input_type: select
+      - input_type: text
         name: subject
         label: Subject
         default_value: Please select
