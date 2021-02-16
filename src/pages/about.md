@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work.
-img_path: images/6.jpg
+img_path: /images/DSCN2884.JPG
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
