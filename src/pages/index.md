@@ -51,7 +51,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+        Software and Personal Finance
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
