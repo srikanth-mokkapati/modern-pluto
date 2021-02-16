@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: "Jackson and Gson - A Handshake \U0001F91D"
 subtitle: lorem-ipsum
 date: '2021-02-16'
 thumb_img_alt: lorem-ipsum
