@@ -26,7 +26,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Srikanth Mokkapati Blog
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
