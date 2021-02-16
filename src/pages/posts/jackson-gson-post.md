@@ -2,7 +2,6 @@
 title: "Jackson and Gson - A Handshake \U0001F91D"
 date: '2021-02-14'
 thumb_img_alt: Jackson and Gson - A Handshake
-content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ''
