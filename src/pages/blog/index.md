@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: About Me
-  description: This is the blog page
+  description: About Srikanth Mokkapati
   extra:
     - name: 'og:type'
       value: website
