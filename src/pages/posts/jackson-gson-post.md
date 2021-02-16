@@ -2,7 +2,9 @@
 title: "Jackson and Gson - A Handshake \U0001F91D"
 date: '2021-02-14'
 thumb_img_alt: Jackson and Gson - A Handshake
-excerpt: 'Find out how to achieve a '
+excerpt: >-
+  Find out how to achieve a Cross-Functionality between the Two Best Java JSON
+  Libraries
 seo:
   title: ''
   description: ''
