@@ -59,5 +59,9 @@ seo:
       value: /images/DSCN2884.JPG
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/DSCN2884.JPG
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
