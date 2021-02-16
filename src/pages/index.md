@@ -52,4 +52,5 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 template: advanced
+excerpt: Personal Blog of Srikanth Mokkapati
 ---
