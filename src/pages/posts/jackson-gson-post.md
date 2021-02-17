@@ -6,7 +6,7 @@ excerpt: >-
   Find out how to achieve a Cross-Functionality between the Two Best Java JSON
   Libraries
 seo:
-  title: ''
+  title: Using Jackson and Gson Together
   description: ''
   robots: []
   extra: []
