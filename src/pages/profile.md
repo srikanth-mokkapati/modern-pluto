@@ -21,7 +21,7 @@ sections:
     type: section_content
     image: images/intro.jpg
 seo:
-  title: ''
+  title: Profile
   description: ''
   robots: []
   extra: []
