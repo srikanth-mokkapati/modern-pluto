@@ -11,8 +11,8 @@ sections:
     type: section_content
     title: About
     content: >
-      I am Software Developer by Profession. My Interests include Software
-      Development mainly Web Technologies, Personal Finance and Physics.
+      I am Software Developer by Profession. My Interests include Web
+      Development, Personal Finance and Physics.
     actions:
       - label: Contact Me
         url: /contact
