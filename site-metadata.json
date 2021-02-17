@@ -31,7 +31,7 @@
             },
             {
                 "label": "Profile",
-                "url": "lorem-ipsum",
+                "url": "profile",
                 "style": "link",
                 "icon_class": "dev",
                 "new_window": false,
