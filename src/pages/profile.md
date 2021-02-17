@@ -4,7 +4,7 @@ hide_title: false
 excerpt: Qualifications and Experience of Srikanth Mokkapati
 sections:
   - title: Java Backend Web Developer
-    section_id: lorem-ipsum
+    section_id: skills
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
