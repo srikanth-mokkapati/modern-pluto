@@ -11,7 +11,11 @@ seo:
     Using Two Best Java JSON Libraries together when parsing API Request and
     Response
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/Screenshot%20JSON.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/Screenshot JSON.png
