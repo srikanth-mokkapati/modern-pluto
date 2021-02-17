@@ -31,6 +31,10 @@ seo:
       value: /images/intro.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/intro.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: advanced
 ---
