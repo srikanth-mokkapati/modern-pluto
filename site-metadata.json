@@ -20,6 +20,15 @@
                 "style": "link"
             },
             {
+                "label": "Profile",
+                "url": "/profile/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -28,15 +37,6 @@
                 "label": "Contact Me",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Profile",
-                "url": "/profile/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ],
         "has_social": true,
