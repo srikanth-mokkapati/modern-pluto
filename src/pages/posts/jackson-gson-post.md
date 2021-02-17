@@ -7,7 +7,9 @@ excerpt: >-
   Libraries
 seo:
   title: Using Jackson and Gson Together
-  description: ''
+  description: >-
+    Using Two Best Java JSON Libraries together when parsing API Request and
+    Response
   robots: []
   extra: []
   type: stackbit_page_meta
