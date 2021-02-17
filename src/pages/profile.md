@@ -3,7 +3,7 @@ title: Technical Skills and Experience
 hide_title: false
 excerpt: Qualifications and Experience of Srikanth Mokkapati
 sections:
-  - title: lorem-ipsum
+  - title: Java and Python Backend Web Developer
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
