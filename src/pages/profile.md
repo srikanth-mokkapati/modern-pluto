@@ -165,7 +165,7 @@ sections:
       ##### Career Interests and Moving Forward
 
 
-      *   Data Engineering.
+      *   Data Engineering
 
 
       *   Message Queues - Kafka
