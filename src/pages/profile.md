@@ -3,7 +3,7 @@ title: Profile
 hide_title: false
 excerpt: lorem-ipsum
 sections:
-  - title: 'Technical Skills and '
+  - title: Technical Skills and Experience
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
