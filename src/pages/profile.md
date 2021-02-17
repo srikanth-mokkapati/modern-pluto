@@ -6,7 +6,7 @@ sections:
   - title: Software Product Developer
     section_id: skills
     image_alt: web-dev-pic
-    content: >
+    content:
       Contact 
 
 
