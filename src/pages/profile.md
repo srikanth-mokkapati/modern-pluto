@@ -186,7 +186,25 @@ sections:
       *   Building Real-Time Systems
 
 
-      Hobbies 
+      ##### Hobbies and Other Interests
+
+
+      *   Personal Finance
+
+
+      *   Blogging
+
+
+      *   Audio Books
+
+
+      *   Podcasts
+
+
+      *   Reading - Technology, Life Style, Finance
+
+
+      *   Table Tennis
     actions: []
     type: section_content
     image: images/intro.jpg
