@@ -7,7 +7,7 @@ sections:
     section_id: skills
     image_alt: web-dev-pic
     content: >
-      ## Skills
+      ##### Skills
 
 
       *   Problem Solving using Programming
@@ -25,7 +25,7 @@ sections:
       *   Testing and Validation
 
 
-      ## Experienced Technologies
+      ##### Experienced Technologies
 
 
       *   Java with SpringBoot
