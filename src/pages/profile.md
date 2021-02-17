@@ -1,5 +1,5 @@
 ---
-title: Technical Skills and Experience
+title: Srikanth Mokkapati
 hide_title: false
 excerpt: Qualifications and Experience of Srikanth Mokkapati
 sections:
