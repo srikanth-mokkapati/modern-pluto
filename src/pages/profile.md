@@ -112,11 +112,11 @@ sections:
 
 
       *   Java Product Developer and Part of Core Platform Team, working on
-      Modular and Extensible Components of Application.
+      Modular and Extensible components of Application.
 
 
       *   REST API Development leveraging Microservices, Message Queues, Caching
-      and High Performance DBs and other Day to Day Responsibilities.
+      and High Performance DBs and other day to day responsibilities.
 
 
       ###### Kloud Maaya, Vijayawada, India : May 2019 - Dec 2019
@@ -160,6 +160,33 @@ sections:
 
 
       *   Intermediate Subject Matter Expert.
+
+
+      ##### Career Interests and Moving Forward
+
+
+      *   Data Engineering.
+
+
+      *   Message Queues - Kafka
+
+
+      *   Stream Processing
+
+
+      *   Architecting Scalable Microservices
+
+
+      *   Python - FastAPI
+
+
+      *   High Performance DB Design
+
+
+      *   Building Real-Time Systems
+
+
+      Hobbies 
     actions: []
     type: section_content
     image: images/intro.jpg
