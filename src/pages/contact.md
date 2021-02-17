@@ -4,12 +4,9 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: |
-      To get in touch please fill the form below.
-
-      Or
-
-      You can directly mail me on srikanth.mokkapati9@gmail.com
+    content: >
+      To get in touch please fill the form below or reach mail me directly on
+      srikanth.mokkapati9@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
