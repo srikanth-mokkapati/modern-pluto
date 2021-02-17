@@ -4,7 +4,7 @@ hide_title: false
 excerpt: lorem-ipsum
 sections:
   - title: Technical Skills and Experience
-    section_id: lorem-ipsum
+    section_id: tech skills
     content: >-
       ## Lorem ipsum
 
