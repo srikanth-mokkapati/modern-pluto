@@ -3,7 +3,7 @@ title: Srikanth Mokkapati
 hide_title: false
 excerpt: Qualifications and Experience of Srikanth Mokkapati
 sections:
-  - title: 'Software Product Developer ::'
+  - title: Software Product Developer
     section_id: skills
     image_alt: web-dev-pic
     content: >
