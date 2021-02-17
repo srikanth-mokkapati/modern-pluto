@@ -22,7 +22,9 @@ sections:
     image: images/intro.jpg
 seo:
   title: Profile
-  description: ''
+  description: >-
+    This is Profile Page of Srikanth Mokkapati. Find his Technical Skills and
+    Experience.
   robots: []
   extra: []
   type: stackbit_page_meta
