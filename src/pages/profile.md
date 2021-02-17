@@ -1,7 +1,7 @@
 ---
 title: Technical Skills and Experience
 hide_title: false
-excerpt: lorem-ipsum
+excerpt: Qualifications and Experience of Srikanth Mokkapati
 sections: []
 seo:
   title: ''
