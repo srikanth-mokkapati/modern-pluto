@@ -6,7 +6,7 @@ sections:
   - title: Software Product Developer
     section_id: skills
     image_alt: web-dev-pic
-    content: >
+    content: >+
       ##### Skills
 
 
@@ -53,6 +53,47 @@ sections:
 
       *   Git, Docker Containers, Jenkins, Bash, Automation Scripting and
       Reverse Proxies.
+
+
+      ##### Experienced Tools
+
+
+      *   Intellij IDEA/VS Code
+
+
+      *   Postman
+
+
+      *   Windows/Ubuntu
+
+
+      *   Exposure to Azure and AWS
+
+
+      *   Jira, Asana and Taiga.
+
+
+      ##### Day To Day Responsibilities
+
+
+      *   Developing Applications with Design Principles at Scale.
+
+
+      *   Debugging, Root Cause Analysis and Resolving Bugs.
+
+
+      *   Code Quality Assurance through Testing, Static Code Analysis and Code
+      Reviews.
+
+
+      *   Unit and Integration Testing.
+
+
+      *   POC Ideation, Validation and Implementation into Business Logic.
+
+
+      *   Documentation and Demo of Solutions.
+
     actions: []
     type: section_content
     image: images/intro.jpg
