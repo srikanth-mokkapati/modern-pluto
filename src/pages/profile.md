@@ -6,17 +6,17 @@ sections:
   - title: Software Product Developer
     section_id: skills
     image_alt: web-dev-pic
-    content: >-
-      ## Lorem ipsum
+    content: >
+      Contact 
 
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-      - Lorem ipsum
+      *   Lorem ipsum
 
-      - dolor sit amet
+      *   dolor sit amet
     actions: []
     type: section_content
     image: images/intro.jpg
