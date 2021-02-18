@@ -11,7 +11,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: About Srikanth Mokkapati
+      value: Cafeteria Talk - Personal Blog of Srikanth Mokkapati
       keyName: property
     - name: 'og:image'
       value: /images/DSCN2884.JPG
