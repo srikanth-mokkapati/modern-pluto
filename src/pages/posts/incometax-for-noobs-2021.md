@@ -3,7 +3,8 @@ title: lorem-ipsum
 subtitle: A Place to start on Income Tax for Beginners
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
-content_img_alt: tax-return pictire
+content_img_alt: >-
+  https://unsplash.com/photos/Ber3q-zEhd4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
 excerpt: Beginner's Primer to Income Tax in India
 seo:
   title: ''
