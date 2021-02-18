@@ -49,7 +49,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Srikanth Mokkapati - Blog
+      value: CafeteriaTalk - Personal Blog
     - name: 'twitter:description'
       value: >-
         This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
