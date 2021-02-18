@@ -1,6 +1,6 @@
 ---
 title: "A Noob's Primer to Income Tax \U0001F62D"
-subtitle: A place to start on Income Tax in India for Beginners
+subtitle: A place to start on Income Tax in India for Salaried Beginners
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
 content_img_alt: income-tax picture
