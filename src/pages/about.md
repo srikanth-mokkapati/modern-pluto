@@ -14,7 +14,7 @@ seo:
       value: About Me
       keyName: property
     - name: 'og:description'
-      value: This is the about me page
+      value: Cafeteria Talk - This is the about me page of Srikanth Mokkapati
       keyName: property
     - name: 'og:image'
       value: /images/DSCN2884.JPG
