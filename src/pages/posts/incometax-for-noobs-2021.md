@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: 'A Place to start '
+subtitle: A Place to start on Income Tax for Begineers
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
 content_img_alt: tax-return pictire
