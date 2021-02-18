@@ -15,25 +15,18 @@ template: post
 thumb_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 content_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 ---
-> **Disclaimer**
->
->  : This is solely my personal opinion. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).  
-
-
+> **Disclaimer** : This is solely my personal opinion. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).
 
 ##### Introduction&#xA;
 
 From, past few weeks, you may be bombarded by several notifications and mails from your Salary Account Bank, Mutual Fund(MF from here on) companies, Insurance Distributors and many other financial websites/companies regarding tax saving products and investments. As Financial Year is coming to an end, at least I am seeing a lot more of these in between Cricket Matches, News Columns and Inbox.
 You might have gone through some of this pushed/shared content, read it further on several sites, contacted your Office Account Section or CA friends and put in some sort of effort to reduce you tax liability, Or you may have said, **Meh.. Not for me**. This post is put together with the perspective of a relatively young(?) **Salaried** earner (Bar the age, I am earning from 3 years only) and a primer, making some common assumptions and taking the mindset into consideration. I want to keep things as simple as possible and make it easier to make informed decision with around a month remaining in the Financial Year. Go through this post, may be it changes your perspective? or at worse, waste a few minutes of your time.
 
-
 > If you already paid Income Tax or filed ITR previously or have Parents doing same (Get some advice from them), most of this may seem extremely trivial for you. This is for an absolute beginner with almost Zero Experience/Knowledge w.r.t finance or Income Tax. I got the idea for this article on receiving a phone call from one of my friends regarding tax proofs.
-
-
 
 ##### Where are you at Present&#xA;
 
-\- **Do you want to save tax?** : If you want to save tax, you need to opt for Old Income Tax Regime else can go with New Regime. If you choose New Regime and TDS(Tax Deducted at Source) is already deducted, you can file updated ITR with Old Regime and still get the tax refund. Even if you are in 30% tax slab you may be able to get refund of several thousand rupees incase you take some measures. Find more about IT slabs \[here]\(https://cleartax.in/s/income-tax-slabs).
+\- **Do you want to save tax?** : If you want to save tax, you need to opt for Old Income Tax Regime else can go with New Regime. If you choose New Regime and TDS(Tax Deducted at Source) is already deducted, you can file updated ITR with Old Regime and still get the tax refund. Even if you are in 30% tax slab you may be able to get refund of several thousand rupees incase you take some measures. Find more about IT slabs (here)\[https://cleartax.in/s/income-tax-slabs].
 
 \- **Do you know your Salary Composition?** : Salary is combination of multiple components. Some of them are tax liable and some are not. Most companies have HR software to check your salary break up and tax applicable. Components like Variable/Performance pay may not be added at first into this but added after each quarter or annual payment. Look out for such changes. In Form 16, at end of financial year, all of these will be added and summarized.
 
@@ -49,14 +42,12 @@ You might have gone through some of this pushed/shared content, read 
 
 \- **Unknown Factors?** : HUF(Hindu United Family), Property Sales, Large business, Start-Up Equity/Involvement, Freelancing, Crypto Currencies(Bitcoin, etc..) may attract different kinds of tax. I can only recommend, \[cleartax]\(https://cleartax.in) or \[freefincal]\(https://freefincal.com) for those currently.
 
-
 ##### What path should I take ?&#xA;
 
 Your tax liable income below 5 lakhs will not be taxed(atleast from Employer due to input credit), or if taxed will be refunded on filing ITR. File ITR within deadline and honestly. On assuming, your taxable income is above 5 Lakhs either from HR software or Excel, and Based on answers to above questions, I can format only two paths at present :
 1. **Non-Investing**: This can be done by leveraging certain components of your Salary and liabilities (Education/Home Loan) by submitting proper documentation.
 
 2. **With Disposable Income** : When you have disposable income, you can either Invest this or get proper Insurance (try not mixing them up). You can do all the mentioned points of Path 1 as well.
-
 
 ##### Non-Investing&#xA;
 
@@ -73,26 +64,20 @@ Your tax liable income below 5 lakhs will not be taxed(atleast from 
 \- **Preventive Health CheckUps** : Full Body checkups taken maybe eligible. I am not much aware of this. Better check on \[cleartax]\(https://cleartax.in) or some other site.
 There are some other sections for exemptions regarding Electrical Vehicle Loan, incase of Diability, and Other Homeloan specifics, but not going into those and suggest you \[freefincal]\(https://freefincal.com) or \[cleartax]\(https://cleartax.in) for that. I am not an expert and this is just a primer.  
 
-
 ##### With Disposable Income&#xA;
 
 If you are interested to invest or insure with your disposable income, you can get an idea here on how you can do it. Please keep in mind that these are just personal views and not literal facts. You are free to try changing my mind and this post through feedback.
 First, Investment and Insurance (not a combination of both) are good ways to save tax. Insurance brings security (much needed when you are sole bread winner for family) and Investment brings fulfillment of goals when aligned properly with your finances.
 
-
 \- **Life Insurance** : Life Insurance is as the name suggests and comes under 80C. Much needed when your family is dependent on you. Assuming age of readers (and my age being 24 at writing this and 25 in few months), Life Insurance is cheap. **Vanilla Term policy** is the most recommended policy by many experienced people. It secures, cheap (dirt cheap, some say) and easy to get (no medical tests at our age). Be honest about your current health and smoking habits, it may increase premium a bit but helps at claim(better it never comes). Keep a distance from Endowmnet, Money Back and ULIPs, these give meager returns (some say only 3-6 % which is less than PPF or FDs). Read \[this]\(https://freefincal.com/what-you-need-to-know-before-buying-term-insurance/) comprehensive guide regarding Term Insurance. You are generally eligible upto 20 X of your annual income (1-2 Crores may be) and make use of it to get good coverage, not 1, 1.5 or 2 Cr number but **atleast** 12-15X of annual income.
 
-
 \- **Health Insurance** : Your Employer may be already providing this, If not, get it. It is exempted under 80D. Having additional one apart from employer will help incase of job changes or loss of employment. They are also relatively cheap at our age. Get **atleast** 5 Lakhs base policy coverage and a Super TopUp (will come into consideration if base coverage runs out). Get a policy for your parents if not present and get it seperately (reduces your premium as elder member age is considered). Do not go for super low or super high coverage to save tax, it doesn't make sense and is waste of effort and money. Read about healt insurance, more comprehensively, \[here]\(https://freefincal.com/category/health-insurance/) and \[here]\(https://freefincal.com/selected-health-insurance-policy/).
-
 
 > Remember, In case of Insurance, 
 >
 > **Honesty is best for Policy**
 >
 > .
-
-
 
 \- **Investment** : **Do not come directly to this section.** I hope you made use of your non-investment limits and insured yourself properly before coming here. I am assuming that after using above limits you have some more tax liability which you are looking to reduce **AND** some disposable income. Remember, every thing in here has a lock-in period ranging between 3 Years to 35 Years (Until you reach 60). It would be best if these investments align with your goals. Read more about Money Management and Goal Based Investing, \[here]\(https://freefincal.com/announcing-%e2%82%b9e-assemble-video-series-simplify-money-management/). I am assuming you are a Noob in Investing.
 
@@ -116,13 +101,10 @@ First, Investment and Insurance (not a combination of both) are good 
 
 Enter Details into Tax Calculation Sheet or Software to track taxable income properly, Keep proofs ready incase of submission.
 
-
 ##### Special Mention - LTA Cash Voucher
-
 
 Assuming readers as young earners, there is a high chance, you never used your Leave Travel allowance, i.e salary component for vacation. Taxes can be exempted on this. However, due to pandemic, Government want us to spend this component of salary to boost economy. The purchases or services which attract 12% GST or more with digital payment made from self account are eligible to be exempted, with some catches. To keep it simple, If you have Rs. 10000 as Annual LTA, You bought a Mobile Phone (12% Slab) for Rs.18000, you can avail 1/3 rd of this i.e Rs. 6000 exempt from tax. If you bought Rs. 50,000 mobile, your exemption is capped at Rs. 10000 (your LTA and not Rs.16,666). It is applicable for purchases done between Oct 12, 2020 and March 31, 2021. You can read more on this, \[here]\(https://economictimes.indiatimes.com/wealth/tax/how-private-sector-employees-can-avail-tax-benefit-in-ltc-cash-voucher-scheme/articleshow/79735351.cms?from=mdr).
 Coming to personal opinion on this, Being lured into Insurance, Investment or Unknown Products can be considered as gullibility. But, \**Making unplanned purchases or raking up debt for tax exemption is plain stupidity*\*. If you already have plans or bought something already without knowing this, make use of this.
-
 
 ##### What not to do
 
@@ -140,7 +122,6 @@ Coming to personal opinion on this, Being lured into Insurance, Invest
 
 *   Some other \[mistakes]\(https://freefincal.com/investment-mistakes-avoid-2020/).
 
-
 ##### What if I already did
 
 *   At least, read and understand documentation now.
@@ -151,16 +132,13 @@ Coming to personal opinion on this, Being lured into Insurance, Invest
 
 *   Do not feel bad about yourself, nothing goes waste and everything is an *experience*.
 
-
 #####  Is the Effort Worth it?&#xA;
 
 We cannot escape taxes forever, and paying it isn't bad or a waste. We can only reduce or delay a bit, add some stake to our future goals along the way, but they will always catchup. Also, It takes time and effort to get our finances together. All it takes is a start, with a few hours of our weekend. Getting down this rabbit hole of Personal Finance may be draining and a hassle. A sense of security may creep in and may effect your choices in-case of Big Leaps (like quitting job for startup or new job). But having a cushion of Insurance or brace of Investments towards goals is not a hassle but something that is necessary to achieve them. Developing and enabling a framework in place, earlier and before our time is worth more than what we are trying to save out of it, is much better. *We might shake it off as complex and isn't worth it, But how long can we escape it ?*
 
-
 ##### Conclusion&#xA;
 
 You might always find *better* literature and data than this. This is something I learned from my experience and understanding of things going around. This is neither advanced or absolute. You may be better off discussing these things with experts or CAs. But, this is a place to get started. If you question, what I am doing? **I do a bit of everything**, you can also try them. We are still *relatively young, un-experienced and have time on our side, Don't we?*
-
 
 >  P.S : You may want to suggest changes or 
 >
