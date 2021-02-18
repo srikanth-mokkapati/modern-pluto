@@ -52,7 +52,7 @@ seo:
       value: CafeteriaTalk - Personal Blog
     - name: 'twitter:description'
       value: >-
-        This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+        This is a Personal Blog of Srikanth Mokkapati. Find More on Technology,
         Software and Personal Finance
     - name: 'twitter:image'
       value: /images/DSCN2884.JPG
