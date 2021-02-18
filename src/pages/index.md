@@ -25,6 +25,13 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
 seo:
   title: CafeteriaTalk - Personal Blog
   description: >-
