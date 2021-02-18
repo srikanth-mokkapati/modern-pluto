@@ -35,7 +35,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Srikanth Mokkapati - Blog
+      value: CafeteriaTalk - Personal Blog
       keyName: property
     - name: 'og:description'
       value: >-
