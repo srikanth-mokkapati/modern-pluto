@@ -21,7 +21,7 @@ content_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 ---
 # Introduction
 
-> **Disclaimer** : This is solely my personal \<suggestion>opinion\</suggestion> and a culmination of Acquired Knowledge from various sites and forums. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).
+> **Disclaimer** : This is solely my personal opinion and a culmination of Acquired Knowledge from various sites and forums. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).
 
 From, past few weeks, you may be bombarded by several notifications and mails from your Salary Account Bank, Mutual Fund companies, Insurance Distributors and many other financial websites/companies regarding tax saving products and investments. As Financial Year is coming to an end, at least I am seeing a lot more of these in between Cricket Matches, News Columns and Inbox.
 
