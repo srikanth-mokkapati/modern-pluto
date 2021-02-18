@@ -140,8 +140,4 @@ We cannot escape taxes forever, and paying it isn't bad or a waste.�
 
 You might always find *better* literature and data than this. This is something I learned from my experience and understanding of things going around. This is neither advanced or absolute. You may be better off discussing these things with experts or CAs. But, this is a place to get started. If you question, what I am doing? **I do a bit of everything**, you can also try them. We are still *relatively young, un-experienced and have time on our side, Don't we?*
 
->  P.S : You may want to suggest changes or 
->
-> *correct*
->
->  me. I am open to editing this, as long as you provide me some relevant details. And as many people say, Personal Finance must be kept Personal. Also, re-read the disclaimer on the top.
+>  P.S : You may want to suggest changes or *correct *me. I am open to editing this, as long as you provide me some relevant details. And as many people say, Personal Finance must be kept Personal. Also, re-read the disclaimer on the top.
