@@ -5,7 +5,7 @@ img_path: /images/DSCN2884.JPG
 img_alt: Portrait of a man with beard and mustache
 seo:
   title: About Me
-  description: This is the about me page
+  description: Cafeteria Talk - This is the about me page of Srikanth Mokkapati
   extra:
     - name: 'og:type'
       value: website
