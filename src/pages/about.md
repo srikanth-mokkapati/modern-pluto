@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: About Me
     - name: 'twitter:description'
-      value: This is the about me page
+      value: Cafeteria Talk - This is the about me page of Srikanth Mokkapati
     - name: 'twitter:image'
       value: /images/DSCN2884.JPG
       relativeUrl: true
