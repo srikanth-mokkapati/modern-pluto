@@ -15,7 +15,7 @@ template: post
 thumb_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 content_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 ---
-> **Disclaimer** : This is solely my personal opinion. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).
+> <https://github.com/srikanth-mokkapati/blog-content/tree/main/Post2>**Disclaimer** : This is solely my personal opinion. Please take it with a grain of salt. Do not consider this as any form of Investment Advice. Please do your own research before committing to any Financial Decisions. I am not responsible for your Decisions or Actions(Investments or not).
 
 ##### Introduction&#xA;
 
