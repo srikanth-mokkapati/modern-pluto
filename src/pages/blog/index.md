@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: About Srikanth Mokkapati
+      value: Cafeteria Talk - Personal Blog of Srikanth Mokkapati
     - name: 'twitter:image'
       value: /images/DSCN2884.JPG
       relativeUrl: true
