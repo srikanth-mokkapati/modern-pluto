@@ -7,7 +7,7 @@
         "profile_img": "images/ultra-squid.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
