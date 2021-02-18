@@ -39,7 +39,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+        This is a Personal Blog of Srikanth Mokkapati. Find More on Technology,
         Software and Personal Finance
       keyName: property
     - name: 'og:image'
