@@ -3,7 +3,7 @@ title: lorem-ipsum
 subtitle: lorem-ipsum
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
-content_img_alt: tax-ret
+content_img_alt: tax-return pictire
 excerpt: lorem-ipsum
 seo:
   title: ''
