@@ -6,7 +6,7 @@ thumb_img_alt: Tax Return Picture
 content_img_alt: income-tax picture
 excerpt: Beginner's Primer to Income Tax in India
 seo:
-  title: Income Tax Exemptions for Beginners
+  title: Income Tax for Beginners
   description: A Beginner guide to File Income Tax Returns and Exemptions in India
   robots: []
   extra:
