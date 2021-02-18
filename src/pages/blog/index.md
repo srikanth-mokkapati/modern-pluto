@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: About Srikanth Mokkapati
+  description: Cafeteria Talk - Personal Blog of Srikanth Mokkapati
   extra:
     - name: 'og:type'
       value: website
