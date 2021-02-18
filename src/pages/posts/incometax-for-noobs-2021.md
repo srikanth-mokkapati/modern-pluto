@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
+content_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 ---
 ## Lorem ipsum
 
