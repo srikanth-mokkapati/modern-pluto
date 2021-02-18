@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: About Me
+  title: Blog
   description: About Srikanth Mokkapati
   extra:
     - name: 'og:type'
