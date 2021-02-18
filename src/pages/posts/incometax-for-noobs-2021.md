@@ -9,7 +9,11 @@ seo:
   title: Income Tax Exemptions for Beginners
   description: A Beginner guide to File Income Tax Returns and Exemptions in India
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
