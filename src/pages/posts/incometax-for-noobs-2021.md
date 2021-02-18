@@ -15,6 +15,5 @@ template: post
 thumb_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 content_img_path: images/markus-winkler-Ber3q-zEhd4-unsplash.jpg
 ---
->
 
 > <https://github.com/srikanth-mokkapati/blog-content/tree/main/Post2>
