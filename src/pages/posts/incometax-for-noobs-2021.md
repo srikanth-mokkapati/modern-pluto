@@ -4,7 +4,7 @@ subtitle: A place to start on Income Tax in India for Salaried Beginners
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
 content_img_alt: income-tax picture
-excerpt: Beginner's Primer to Income Tax in India
+excerpt: Beginner's Guide to Income Tax in India
 seo:
   title: Income Tax for Beginners
   description: A Beginner guide to File Income Tax Returns and Exemptions in India
