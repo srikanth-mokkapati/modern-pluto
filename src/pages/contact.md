@@ -56,7 +56,7 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact me page of Srikanth Mokkapati
+      value: This is the Contact Me page of Srikanth Mokkapati
     - name: 'og:image'
       value: /images/DSCN2884.JPG
       keyName: property
