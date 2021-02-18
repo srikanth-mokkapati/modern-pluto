@@ -4,7 +4,7 @@ subtitle: lorem-ipsum
 date: '2021-02-19'
 thumb_img_alt: Tax Return Picture
 content_img_alt: tax-return pictire
-excerpt: 'How can you save you '
+excerpt: 'Beginner''s  can you save you '
 seo:
   title: ''
   description: ''
