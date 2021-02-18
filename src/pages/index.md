@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, This is Srikanth'
     content: |
-      Welcome to my Blog.
+      Welcome to my Blog - Cafeteria Talk.
   - section_id: about
     type: section_content
     title: About
