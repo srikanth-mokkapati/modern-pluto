@@ -40,7 +40,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact Me
-  description: This is the contact page me page of Srikanth Mokkapati
+  description: This is the Contact Me page of Srikanth Mokkapati
   extra:
     - name: 'og:type'
       value: website
