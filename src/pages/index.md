@@ -28,7 +28,7 @@ sections:
 seo:
   title: CafeteriaTalk - Personal Blog
   description: >-
-    This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
+    This is a Personal Blog of Srikanth Mokkapati. Find More on Technology,
     Software and Personal Finance
   extra:
     - name: 'og:type'
