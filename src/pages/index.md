@@ -26,7 +26,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Srikanth Mokkapati - Blog
+  title: CafeteriaTalk - Personal Blog
   description: >-
     This is a Personal Blog of Srikanth Mokkapati. Find More on Technolgy,
     Software and Personal Finance
