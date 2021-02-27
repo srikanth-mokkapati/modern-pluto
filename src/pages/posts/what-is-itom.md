@@ -11,7 +11,11 @@ seo:
   title: What is IT Operations Management?
   description: 'A Quick Introduction to IT Operations Management and, How OpsRamp does it.'
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/markus-spiske-Skf7HxARcoc-unsplash.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
