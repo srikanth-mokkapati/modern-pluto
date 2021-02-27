@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: What is IT Operations Management
 subtitle: lorem-ipsum
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
