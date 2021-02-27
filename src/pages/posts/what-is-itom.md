@@ -5,8 +5,8 @@ date: '2021-02-27'
 thumb_img_alt: itom-computer-screen
 content_img_alt: itom-computer-screen
 excerpt: >-
-  Find out Why IT Operations Management is Necessary and learn a bit on How
-  OpsRamp Excels at it
+  Find out why IT Operations Management is necessary and learn a bit on How
+  OpsRamp excels at it
 seo:
   title: What is IT Operations Management?
   description: >-
