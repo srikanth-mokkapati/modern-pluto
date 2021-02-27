@@ -9,7 +9,9 @@ excerpt: >-
   OpsRamp Excels at it
 seo:
   title: What is IT Operations Management?
-  description: 'A Quick Introduction to IT Operations Management and, How OpsRamp does it.'
+  description: >-
+    A Quick Introduction to IT Operations Management and, An intro on how
+    OpsRamp does it.
   robots: []
   extra:
     - name: 'og:image'
