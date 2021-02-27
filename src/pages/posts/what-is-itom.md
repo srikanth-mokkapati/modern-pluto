@@ -4,7 +4,7 @@ subtitle: 'A Quick Introduction to IT Operations Management and, How we do it at
 date: '2021-02-27'
 thumb_img_alt: itom-computer-screen
 content_img_alt: itom-computer-screen
-excerpt: 'Find out Why '
+excerpt: Find out Why IT Operations Management is Necessary and How Ops
 seo:
   title: ''
   description: ''
