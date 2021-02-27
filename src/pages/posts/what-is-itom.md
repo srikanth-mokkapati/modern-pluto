@@ -4,7 +4,7 @@ subtitle: 'A Quick Introduction to IT Operations Management and, How we do it at
 date: '2021-02-27'
 thumb_img_alt: itom-computer-screen
 content_img_alt: itom-computer-screen
-excerpt: Find out Wh
+excerpt: 'Find out Why '
 seo:
   title: ''
   description: ''
