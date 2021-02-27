@@ -1,5 +1,5 @@
 ---
-title: What is IT Operations Management
+title: What is IT Operations Management?
 subtitle: An Quick Introduction to IT Operations Management and How we do it at OpsRamp
 date: '2021-02-27'
 thumb_img_alt: lorem-ipsum
