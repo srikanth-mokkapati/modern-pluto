@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+thumb_img_path: images/markus-spiske-Skf7HxARcoc-unsplash.jpg
 ---
 ## Lorem ipsum
 
