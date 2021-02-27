@@ -1,6 +1,6 @@
 ---
 title: What is IT Operations Management?
-subtitle: 'An Quick Introduction to IT Operations Management and, How we do it at OpsRamp'
+subtitle: 'A Quick Introduction to IT Operations Management and, How we do it at OpsRamp'
 date: '2021-02-27'
 thumb_img_alt: itom-computer-screen
 content_img_alt: itom-computer-screen
