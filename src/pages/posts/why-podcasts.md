@@ -5,7 +5,7 @@ date: '2021-03-06'
 thumb_img_alt: why-podcasts-image
 content_img_alt: why-podcasts-image
 excerpt: >-
-  Podcasts are Audio form Content gaining a steady traction. If you are not
+  Podcasts are audio form content gaining a steady traction. If you are not
   checking one, Read to find out, Why you need to check them.
 seo:
   title: ''
