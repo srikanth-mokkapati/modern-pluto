@@ -15,7 +15,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/maroon-mahogany.jpg
+      value: /images/juja-han-uT55XxQLQGU-unsplash.jpg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
