@@ -13,7 +13,11 @@ seo:
     Podcasts are a form of Audio content. If you are not listening to one, find
     out why you should get started.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/maroon-mahogany.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/juja-han-uT55XxQLQGU-unsplash.jpg
