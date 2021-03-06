@@ -9,7 +9,9 @@ excerpt: >-
   listening to one, Read to find out, Why you need to check them.
 seo:
   title: What is a Podcast and 5 Reasons to give them a Try
-  description: ''
+  description: >-
+    Podcasts are a form of Audio content. If you are not listening to one, find
+    out why you should get started.
   robots: []
   extra: []
   type: stackbit_page_meta
