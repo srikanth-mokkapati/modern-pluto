@@ -6,7 +6,7 @@ thumb_img_alt: why-podcasts-image
 content_img_alt: why-podcasts-image
 excerpt: >-
   Podcasts are audio form content gaining a steady traction. If you are not
-  checking one, Read to find out, Why you need to check them.
+  listening to one, Read to find out, Why you need to check them.
 seo:
   title: ''
   description: ''
