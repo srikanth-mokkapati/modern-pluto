@@ -1,6 +1,6 @@
 ---
 title: Five Reasons Why you should give Podcasts a Try
-subtitle: 'What is a Podcast? And, why you should try one.'
+subtitle: 'What is a Podcast? And, Why you should try one.'
 date: '2021-03-06'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
