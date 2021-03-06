@@ -17,8 +17,6 @@ template: post
 thumb_img_path: images/juja-han-uT55XxQLQGU-unsplash.jpg
 content_img_path: images/juja-han-uT55XxQLQGU-unsplash.jpg
 ---
-## Lorem ipsum
-
 ## What is a Podcast?
 
 Podcast is a form of Audio Content, which is recorded by one or more hosts that discusses some topics or events. They can be standalone episodes or a series with recurring themes. They are similar to a YouTube video/series sans Video or a Spoken/Discussed QA or Blog. Podcasts are produced from quite a while (Since 2007 as per Wikipedia) and are constantly gaining traction. They are available with-in Music/Audio streaming platforms like Spotify, Gaana or JioSaavn and also have dedicated Apps in form of Apple/Google podcasts, iHeartRadio, etc. They are reminiscent of Radio Shows of pre-television and Internet era.
