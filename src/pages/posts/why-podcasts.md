@@ -4,7 +4,7 @@ subtitle: 'What is a Podcast? And, Why you should try one.'
 date: '2021-03-06'
 thumb_img_alt: why-podcasts-image
 content_img_alt: why-podcasts-image
-excerpt: Podcasts are Audio form Content gain
+excerpt: 'Podcasts are Audio form Content gaining a steady traction. If '
 seo:
   title: ''
   description: ''
