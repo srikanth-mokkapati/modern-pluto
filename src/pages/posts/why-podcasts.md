@@ -13,6 +13,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/juja-han-uT55XxQLQGU-unsplash.jpg
+content_img_path: images/juja-han-uT55XxQLQGU-unsplash.jpg
 ---
 ## Lorem ipsum
 
