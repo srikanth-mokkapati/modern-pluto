@@ -8,7 +8,7 @@ excerpt: >-
   Podcasts are audio form content gaining a steady traction. If you are not
   listening to one, Read to find out, Why you need to check them.
 seo:
-  title: ''
+  title: What is a Podcast and 5 Reasons to give them a Try
   description: ''
   robots: []
   extra: []
