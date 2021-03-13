@@ -15,7 +15,7 @@ excerpt: >-
   concepts that appear when we try to understand the essence of it. Read the
   post, where I try to list out few of these.
 seo:
-  title: ''
+  title: 5 Subtle Lessons from The Richest Man in Babylon
   description: ''
   robots: []
   extra: []
