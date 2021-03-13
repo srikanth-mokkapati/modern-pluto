@@ -13,7 +13,7 @@ excerpt: >-
   Personal Finance. The book presents some concepts of Personal Finance in a
   straight forward and blunt way. However, There are also certain subtle
   concepts when we try to understand the essence of it. Read the post, where I
-  try to list out few of these found on
+  try to list out few of these.
 seo:
   title: ''
   description: ''
