@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 5 Subtle Lessons from The Richest Man in Babylon
 subtitle: lorem-ipsum
 date: '2021-03-13'
 thumb_img_alt: lorem-ipsum
