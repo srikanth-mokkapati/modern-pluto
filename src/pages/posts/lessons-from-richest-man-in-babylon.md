@@ -16,7 +16,9 @@ excerpt: >-
   post, where I try to list out few of these.
 seo:
   title: 5 Subtle Lessons from The Richest Man in Babylon
-  description: ''
+  description: >-
+    This book is most recommended to learn Personal Finance. Here, I try to list
+    out few of lessons. These are not explicitly told but must to be explored.
   robots: []
   extra: []
   type: stackbit_page_meta
