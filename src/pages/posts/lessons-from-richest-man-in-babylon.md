@@ -12,7 +12,8 @@ excerpt: >-
   The Richest Man in Babylon is a book suggested for fundamental knowledge on
   Personal Finance. The book presents some concepts of Personal Finance in a
   straight forward and blunt way. However, There are also certain subtle
-  concepts when we try to understand the essence of it.
+  concepts when we try to understand the essence of it. Read the post, where I
+  try to list out few of these found on
 seo:
   title: ''
   description: ''
