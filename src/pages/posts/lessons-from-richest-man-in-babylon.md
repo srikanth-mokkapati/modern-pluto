@@ -20,7 +20,11 @@ seo:
     This book is most recommended to learn Personal Finance. Here, I try to list
     out few of lessons. These are not explicitly told but must to be explored.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/morgan-housel-PcDGGex9-jA-unsplash.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/morgan-housel-PcDGGex9-jA-unsplash.jpg
