@@ -7,7 +7,7 @@ subtitle: >-
   concepts when we try to understand the essence of it.
 date: '2021-03-13'
 thumb_img_alt: wealth-time
-content_img_alt: lorem-ipsum
+content_img_alt: wealth-time
 excerpt: >-
   The Richest Man in Babylon is a book suggested for fundamental knowledge on
   Personal Finance. The book presents some concepts of Personal Finance in a
