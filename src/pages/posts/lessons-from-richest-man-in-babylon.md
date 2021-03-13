@@ -56,4 +56,4 @@ Apart from these there are several others on Procastination, Investing early and
 
 ## Conclusion
 
-I found these things when I read the book, maybe because I am looking for them or as result of aquired knowledge from other source previously? I am not entirely sure of either. It is really fascinating, how these are still relevant and passed on for years, yet dissappointing that they are never taught formally. I am looking foraward to read further and complete the book and maybe write another post. Feel free to share you ideas/opinions and read the book if possible. 
+I found these things when I read the book, maybe because I am looking for them or as result of aquired knowledge from other source previously? I am not entirely sure of either. It is really fascinating, how these are still relevant and passed on for years, yet dissappointing that they are never taught formally. I am looking foraward to read further and complete the book and maybe write another post. Feel free to share you ideas/opinions and read the book if possible.
