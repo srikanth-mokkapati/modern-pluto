@@ -22,6 +22,7 @@ seo:
   type: stackbit_page_meta
 template: post
 thumb_img_path: images/morgan-housel-PcDGGex9-jA-unsplash.jpg
+content_img_path: images/morgan-housel-PcDGGex9-jA-unsplash.jpg
 ---
 ## Lorem ipsum
 
