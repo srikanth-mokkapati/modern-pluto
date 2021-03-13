@@ -8,7 +8,11 @@ subtitle: >-
 date: '2021-03-13'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  The Richest Man in Babylon is a book suggested for fundamental knowledge on
+  Personal Finance. The book presents some concepts of Personal Finance in a
+  straight forward and blunt way. However, There are also certain subtle
+  concepts when we try to understand the essence of it.
 seo:
   title: ''
   description: ''
