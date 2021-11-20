@@ -37,7 +37,7 @@ A lot of this is going around and I am particularly fed up with some of the most
 
 2.  **Work/Job**: Yeah, few people have bad jobs, not going anywhere, know balance is important.
 
-3.  **Passive Income**: Yeah, we know it helps, but is it that \*easy \*as you want it to be?
+3.  **Passive Income**: Yeah, we know it helps, but is it that *easy* as you say?
 
 4.  **Investment/Personal Finance**: Yeah, ***Mutual Funds Sahi Hai, IPO Sahi Hai, FD won't work with inflation*** and ***To the Moon***.
 
