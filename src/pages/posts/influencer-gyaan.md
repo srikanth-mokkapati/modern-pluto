@@ -7,7 +7,7 @@ excerpt: >-
   A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market.
   How much are they relevant?
 seo:
-  title: ''
+  title: Financial Influencers and the *Gyaan*
   description: ''
   robots: []
   extra: []
