@@ -66,7 +66,7 @@ Many *Influencers* are selling *gyaan* disguised under advice. I would like to c
 
 2.  **Most of their Claims are not backed by Data:** Excel calculations are done on ***expectations***, which are mostly unrealistic and brought out of thin air (or on point-to-point basis by number crunching best-case scenarios). When Mutual Funds/Professional investors are having professional number crunchers *and* having hard time, how can we trust our "*one-hour free time"* calculations to come out great *and* right, based on the free *gyaan* not backed by data.
 
-This is the reason, I avidly read [Freefincal](https://freefincal.com/), due to transparency, some common man stories and data backed realistic (or pessimistic?) views.
+This is the reason, I would like to highlight [Freefincal](https://freefincal.com/) and [Ben Felix](https://www.youtube.com/c/BenFelixCSI) among few, due to transparency, some common man stories and data backed realistic (or pessimistic?) views.
 
 Most of the times, we fail to see where the influencers are coming from and how our journey can be completely different from them. Most books, including the famous “Psychology of Money” emphasizes this. The *gyaan* is also generic, parroting these books or *sponsored* content.
 
