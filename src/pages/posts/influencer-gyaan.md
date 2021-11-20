@@ -1,6 +1,6 @@
 ---
 title: Financial Influencers and the Gyaan
-date: '2021-11-20'
+date: '2021-11-02'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
