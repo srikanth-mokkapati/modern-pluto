@@ -12,7 +12,7 @@ seo:
 template: post
 subtitle: >-
   A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market.
-  How much are they relevant? 
+  How much are they relevant? Should we be 
 ---
 ## Lorem ipsum
 
