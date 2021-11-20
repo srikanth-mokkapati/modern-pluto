@@ -43,7 +43,7 @@ A lot of this is going around and I am particularly fed up with some of the most
 
 This is a post (or rant?) on the fourth. It is something I am interested in and follow a bit. I blocked the first two (Yes, I blocked few people on LinkedIn and Other Social Media algorithms are *better*), and I still have some mixed feeling about third and won’t go further.
 
-I personally am reading about Personal Finance from few years and applying some *knowledge* or other from past few months. I started my journey and then tried to absorb some more details on the move, adapting and trying to *improvise*.
+I, personally, am reading about Personal Finance and Investing from few years and applying some *knowledge* or other from past few months. I started my journey and then tried to absorb some more details on the move, adapting and trying to *improvise*.
 
 The Financial Influencers are on front pages of magazines and social media continuously sharing *gyaan*, which at most times is useless, repetitive (the wrong kind) and waste of time. Few may call me a hypocrite. As, I am doing the same❓
 
