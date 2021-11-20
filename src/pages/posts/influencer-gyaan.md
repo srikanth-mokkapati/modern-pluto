@@ -25,7 +25,7 @@ Luck and Risk are said to be the Two sides of the same coin. But this coin most 
 
 Most of the *gyaan* is about being hopeful (bullish to be exact), about long-term returns, about long term HODL (no capital loss) with ***disclaimers***. This is all about Good Luck and most of the time does not even care about risk of losing Capital/reducing risk.
 
-While this coin toss isn’t fair, not talking about it, is the worse part. Isn’t Acknowledging and preparing is better than ignorance?
+While this coin toss isn’t fair, not talking about it, is the worse part. Isn’t acknowledging and preparing better than ignorance?
 
 ## Influencers!?
 
