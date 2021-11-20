@@ -33,7 +33,7 @@ I feel most ***Influencers***(Self-Declared?), Non-Professionals who are influen
 
 A lot of this is going around and I am particularly fed up with some of the most useless and obvious *gyaan* on:
 
-1.  **Mental Health**: Yeah, we know it is important and we are not right in the head.
+1.  **Mental Health**: Yeah, we know it is important and we are not right in the head most times.
 
 2.  **Work/Job**: Yeah, few people have bad jobs, not going anywhere, know balance is important.
 
