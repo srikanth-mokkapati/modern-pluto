@@ -45,7 +45,7 @@ This is a post (or rant?) on the fourth. It is something I am interested in and 
 
 I, personally, am reading about Personal Finance and Investing from few years and applying some *knowledge* or other from past few months. I started my journey and then tried to absorb some more details on the move, adapting and trying to *improvise*.
 
-Today some Financial Influencers are on front pages of magazines, newspapers, and social media ads continuously sharing *gyaan*, which at most times is useless, repetitive (the wrong kind) and waste of time. Few may call me a hypocrite. As, I am doing the same❓
+Today some Financial Influencers are on front pages of magazines, newspapers, and social media ads continuously sharing *gyaan*, which at most times is useless, repetitive (the wrong kind) and waste of time. Few may call me a hypocrite. As, I am doing the same?
 
 ## Calling out BS!
 
@@ -53,11 +53,11 @@ Many *Influencers* are selling *gyaan* disguised under advice. I would like to c
 
 1.  **They never reveal their Cards:** That is, what they are investing in, why they are doing so and when they are doing this (most important – ever heard of pump and dump or *goals ?*). Details shared may or may not be true. I believe, details when shared will most *probably* be true. Because, while creating and tracking a Portfolio is hard (*it is*). Maintaining/Creating a Fake Portfolio, for the show, can be even harder. When you share what you do, Success will inspire, and Failure will at the least *warn*.
 
-2.  **Most of their Claims are not backed by Data:** Excel calculations are done on ***expectations***, which are mostly unrealistic and brought out of thin air (or on point-to-point basis by number crunching best-case scenarios). When Mutual Funds/Professional investors are having professional number crunchers *and* having hard time, how can we trust our "*one-hour free time"* calculations to come out great \*and \*right, based on the free *gyaan* not backed by data.
+2.  **Most of their Claims are not backed by Data:** Excel calculations are done on ***expectations***, which are mostly unrealistic and brought out of thin air (or on point-to-point basis by number crunching best-case scenarios). When Mutual Funds/Professional investors are having professional number crunchers *and* having hard time, how can we trust our "*one-hour free time"* calculations to come out great *and* right, based on the free *gyaan* not backed by data.
 
-This is the reason; I avidly read [Freefincal](https://freefincal.com/) due to transparency, some common man stories and data backed realistic (or pessimistic?) views.
+This is the reason, I avidly read [Freefincal](https://freefincal.com/), due to transparency, some common man stories and data backed realistic (or pessimistic?) views.
 
-Most of the times, we fail to see where the influencers are coming from and how our journey can be completely different from them. Most books, including the famous “Psychology of Money” emphasizes this. The *gyaan* is also generic, parroting these books or sponsored content.
+Most of the times, we fail to see where the influencers are coming from and how our journey can be completely different from them. Most books, including the famous “Psychology of Money” emphasizes this. The *gyaan* is also generic, parroting these books or \*sponsored\* content.
 
 We need to be able to separate BS from truth because buying *some* bad product can only affect in short term, but financial decisions are long-term, can be only analyzed in hindsight, and the price to pay can be quite high (Time, Money and Mind).
 
