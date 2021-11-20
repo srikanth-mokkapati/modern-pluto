@@ -31,7 +31,7 @@ While this coin toss isnâ€™t fair, not talking about it, is the worse part. Isnâ
 
 I feel most ***Influencers***(Self-Declared?), Non-Professionals who are influencers first and anything later, are at least straight forward in both their skill/niche and promotions. But, The most *gyaan* providers, aka Professionals and Influencers, are quite opaque, generic and importantly, are a lot more misleading.
 
-A lot of this is going around and I am particularly fed up with some of the most useless and obvious \*gyaan \*on:
+A lot of this is going around and I am particularly fed up with some of the most useless and obvious *gyaan* on:
 
 1.  **Mental Health**: Yeah, we know it is important and we are not right in the head.
 
