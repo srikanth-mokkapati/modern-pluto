@@ -57,7 +57,7 @@ Many *Influencers* are selling *gyaan* disguised under advice. I would like to c
 
 This is the reason, I avidly read [Freefincal](https://freefincal.com/), due to transparency, some common man stories and data backed realistic (or pessimistic?) views.
 
-Most of the times, we fail to see where the influencers are coming from and how our journey can be completely different from them. Most books, including the famous “Psychology of Money” emphasizes this. The *gyaan* is also generic, parroting these books or \*sponsored\* content.
+Most of the times, we fail to see where the influencers are coming from and how our journey can be completely different from them. Most books, including the famous “Psychology of Money” emphasizes this. The *gyaan* is also generic, parroting these books or *sponsored *content.
 
 We need to be able to separate BS from truth because buying *some* bad product can only affect in short term, but financial decisions are long-term, can be only analyzed in hindsight, and the price to pay can be quite high (Time, Money and Mind).
 
