@@ -10,9 +10,7 @@ seo:
   robots: []
   extra: []
 template: post
-subtitle: >-
-  A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market. I
-  am also inexperienced but 
+subtitle: 'A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market. '
 ---
 ## Lorem ipsum
 
