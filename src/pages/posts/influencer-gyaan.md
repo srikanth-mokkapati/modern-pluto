@@ -2,7 +2,7 @@
 title: Financial Influencers and the Gyaan
 date: '2021-11-21'
 thumb_img_alt: piggy-bank-from-unsplash
-content_img_alt: piggy-pank-investing
+content_img_alt: piggy-pbank-investing
 excerpt: >-
   A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market.
   How much are they relevant?
