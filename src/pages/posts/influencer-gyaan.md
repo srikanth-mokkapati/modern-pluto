@@ -16,6 +16,7 @@ subtitle: >-
   A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market.
   How much are they relevant?
 thumb_img_path: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
+content_img_path: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
 ---
 I am writing this Post, after a Long Time, after some deliberation and a bit of anxiety. I have been talking with my family and friends on money management in casual talk and many shared their own anxiety and doubts. Few of them shared their knowledge and sources. Some felt great, although it may or may not apply to my own. As the greats say, **Personal Finance is more Personal than Finance**. But most of it is generic, un-detailed and felt a bit more optimistic. So this is a post on few thoughts that ran in my mind.
 
