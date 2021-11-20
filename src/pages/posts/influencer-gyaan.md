@@ -8,7 +8,9 @@ excerpt: >-
   How much are they relevant?
 seo:
   title: Financial Influencers and the *Gyaan*
-  description: Financial Influencers and the Gyaan
+  description: >-
+    A Lot of Gyaan is floating around. Many experts sprout in the Bull Market.
+    How much are they relevant?
   robots: []
   extra: []
 template: post
