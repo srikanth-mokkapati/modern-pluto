@@ -8,7 +8,7 @@ excerpt: >-
   How much are they relevant?
 seo:
   title: Financial Influencers and the *Gyaan*
-  description: ''
+  description: Financial Influencers and the Gyaan
   robots: []
   extra: []
 template: post
