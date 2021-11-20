@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Influencer
 subtitle: lorem-ipsum
 date: '2021-11-20'
 thumb_img_alt: lorem-ipsum
