@@ -71,4 +71,4 @@ Only way we can get better/utilize this large information flow is selecting prop
 
 Yes, to follow up, I want to share my own *gyaan*(?) on the blog (I do not know what and when). I want share something useful that made me start and build my investment mindset. I want to share my Journey and may be Portfolio(?). But as a disclaimer, I would say, it is *defensively* pessimistic, can be a bit crude and is *influenced* by what I read and listen and apply to my own Finances.
 
-If you like to read more, you can always welcome to share some feedback.
+If you like to read more on something, you are always welcome to share some feedback.
