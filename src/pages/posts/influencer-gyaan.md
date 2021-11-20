@@ -17,6 +17,10 @@ seo:
       value: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
+      keyName: property
+      relativeUrl: true
 template: post
 subtitle: >-
   A Lot of Gyaan is floating around. Many experts sprout in the Bull Market. How
