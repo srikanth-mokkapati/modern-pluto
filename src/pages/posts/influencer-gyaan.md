@@ -13,6 +13,7 @@ template: post
 subtitle: >-
   A Lot of Gyaan is floating around. Many experts sprouted in the Bull Market.
   How much are they relevant?
+thumb_img_path: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
 ---
 ## Lorem ipsum
 
