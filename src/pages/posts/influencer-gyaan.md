@@ -12,7 +12,11 @@ seo:
     A Lot of Gyaan is floating around. Many experts sprout in the Bull Market.
     How much are they relevant?
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/andre-taissin-5OUMf1Mr5pU-unsplash (2).jpg
+      keyName: property
+      relativeUrl: true
 template: post
 subtitle: >-
   A Lot of Gyaan is floating around. Many experts sprout in the Bull Market. How
