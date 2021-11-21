@@ -16,7 +16,7 @@ sections:
       History and Business.
 
 
-      The Idea of the Blog is to be casual, covering wide variety of topics
+      The idea of this Blog is to be casual, covering wide variety of topics
       width first and with some clarity. Yeah, it is the Cafeteria Talk that can
       be a bit more informative, thoughtful and may be interesting.
     actions:
