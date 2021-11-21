@@ -12,7 +12,8 @@ sections:
     title: About
     content: >
       I am Software Developer by Profession. My Interests include Web
-      Development, Personal Finance, Movies/Web Series and Physics.
+      Development, Personal Finance, Movies/Web Series and a bit of Science,
+      History and Business.
     actions:
       - label: Contact Me
         url: /contact
