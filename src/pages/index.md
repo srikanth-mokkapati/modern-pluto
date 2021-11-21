@@ -14,6 +14,11 @@ sections:
       I am Software Developer by Profession. My Interests include Web
       Development, Personal Finance, Movies/Web Series and a bit of Science,
       History and Business.
+
+
+      The Idea of the Blog is to be casual, covering wide variety of topics
+      width first and with some clarity. Yeah, it is the Cafeteria Talk that can
+      be a bit more informative, thoughtful and may be interesting.
     actions:
       - label: Contact Me
         url: /contact
