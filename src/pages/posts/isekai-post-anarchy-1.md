@@ -8,7 +8,9 @@ excerpt: >-
   relate, if at all?
 seo:
   title: The Uncanny Isekai Nature of the Post-Anarchy World – I
-  description: ''
+  description: >-
+    What is Isekai, The Fantasy Anime Genre? What are the Triad of modern Macro
+    Capital? Where do these relate, if at all?
   robots: []
   extra: []
 template: post
