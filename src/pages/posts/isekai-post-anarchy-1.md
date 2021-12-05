@@ -15,8 +15,8 @@ seo:
   extra: []
 template: post
 subtitle: >-
-  What is Isekai? What are the Triad of modern Macro Capital? Where do these
-  relate, if at all?
+  What is Isekai, The Fantasy Anime Genre? What are the Triad of modern Macro
+  Capital? Where do these relate, if at all?
 thumb_img_path: images/nasa-Q1p7bh3SHj8-unsplash.jpg
 content_img_path: images/nasa-Q1p7bh3SHj8-unsplash.jpg
 ---
