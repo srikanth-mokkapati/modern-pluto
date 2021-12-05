@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Uncanny Isekai Nature of the Post-Anarchy World – I
 subtitle: lorem-ipsum
 date: '2021-12-05'
 thumb_img_alt: lorem-ipsum
