@@ -71,6 +71,11 @@ My main Idea is to bring an interest on various things going around which may/ma
 So how do these two different trains of thought come together? Will continue in the next post.
 
 References :
+
 Podcast On YouTube : https://www.youtube.com/watch?v=qRao8xS_nyM
+
 Podcast Transcript : https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/
+
 WikiPage on Isekai : https://en.wikipedia.org/wiki/Isekai
+
+*NYT *- I think NYT refers New York Times, Traditional Media which is happy to push the Cancel culture and incite Reputation Destruction.
