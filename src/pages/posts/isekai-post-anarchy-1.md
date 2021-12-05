@@ -78,4 +78,4 @@ Podcast Transcript : https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/
 
 WikiPage on Isekai : [https://en.wikipedia.org/wiki/Isekai](https://en.wikipedia.org/wiki/IsekaiNYT)
 
-[*NYT*](https://en.wikipedia.org/wiki/IsekaiNYT) - I think NYT refers New York Times, Traditional Media which is happy to push the Cancel culture and incite Reputation Destruction.
+*NYT* - I think NYT refers New York Times, Traditional Media which is happy to push the Cancel culture and incite Reputation Destruction.
