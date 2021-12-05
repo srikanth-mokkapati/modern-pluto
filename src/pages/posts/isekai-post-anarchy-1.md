@@ -1,7 +1,7 @@
 ---
 title: The Uncanny Isekai Nature of the Post-Anarchy World – I
 date: '2021-12-05'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: earth-space
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
