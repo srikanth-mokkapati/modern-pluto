@@ -34,7 +34,7 @@ I will share my take on few concepts discussed and relate them to Isekai genre o
 
 ### Isekai
 
-As per Wikipedia, \*\*Isekai \*\*is a Japanese genre of light novels, manga, anime and video games that revolve around a person who is transported to and has to survive in another world, such as a fantasy world, virtual world, planet or parallel universe. This plot device allows the audience to learn about the new world at the same pace as the protagonist.
+As per Wikipedia, **Isekai** is a Japanese genre of light novels, manga, anime and video games that revolve around a person who is transported to and has to survive in another world, such as a fantasy world, virtual world, planet or parallel universe. This plot device allows the audience to learn about the new world at the same pace as the protagonist.
 
 Most commonly the different world is governed by different physical laws, mostly magic and is on a lower level of technology similar to our medieval times. It is often affected by alien technology and thought of the protagonist where of course he/she stands out and bring revolutionary changes in society (There are few exceptions).
 
