@@ -3,7 +3,9 @@ title: The Uncanny Isekai Nature of the Post-Anarchy World – I
 date: '2021-12-05'
 thumb_img_alt: earth-space
 content_img_alt: earth-space
-excerpt: lorem-ipsum
+excerpt: >-
+  What is Isekai? What are the Triad of modern Macro Capital? Where do these
+  relate, if at all?
 seo:
   title: ''
   description: ''
