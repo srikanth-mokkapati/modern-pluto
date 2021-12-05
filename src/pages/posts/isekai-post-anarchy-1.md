@@ -10,6 +10,9 @@ seo:
   robots: []
   extra: []
 template: post
+subtitle: >-
+  What is Isekai? What are the Triad of modern Macro Capital? Where do these
+  relate if at all?
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
         
